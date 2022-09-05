@@ -1,0 +1,36 @@
+.knappar {
+  position: fixed;
+  background-color: white;
+  top: 260px;
+  margin-top: 10px;
+}
+knappar:hover {
+  background-color: #000;
+}
+
+.tabell {
+  margin-top: 70px;
+}
+
+.choise {
+  background-color: #3f525c;
+  border-radius: 2px;
+  padding: 1rem;
+  font-size: 1.2rem;
+  text-decoration: none;
+  display: inline-block;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  min-width: 70px;
+  margin: 0.5rem auto;
+  box-sizing: border-box;
+}
+
+.tabell {
+  margin-top: 210px;
+}
+
+table {
+  width: 100%;
+}

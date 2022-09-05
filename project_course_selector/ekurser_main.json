@@ -1,0 +1,2777 @@
+{
+   "E-COURSES": {
+      "BMEF10": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Sensorteknik",
+            "spec": "ss",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Sensorteknik",
+            "spec": "mt",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "BMEN15": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Signalseparation - oberoende komponenter",
+            "spec": "ss",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Signalseparation - oberoende komponenter",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Signalseparation - oberoende komponenter",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "BMEN20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projektkurs i signalbehandling – från idé till app",
+            "spec": "ss",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EEMN01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Mikrosensorer",
+            "spec": "ss",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EEMN05": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "EMC, störningar och störningsbegränsning",
+            "spec": "ss",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "EMC, störningar och störningsbegränsning",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "EMC, störningar och störningsbegränsning",
+            "spec": "is",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EEMN10": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Datorbaserade mätsystem",
+            "spec": "ss",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EEMN15": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Ultraljudsfysik och teknik",
+            "spec": "ss",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Ultraljudsfysik och teknik",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EITN60": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Optimal och adaptiv signalbehandling",
+            "spec": "ss",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Optimal och adaptiv signalbehandling",
+            "spec": "bg",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "ETIF10": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E1",
+            "kursnamn": "Signalbehandling - design och implementering",
+            "spec": "ss",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         },
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E1",
+            "kursnamn": "Signalbehandling - design och implementering",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EXTQ40": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Introduktion till artificiella neuronnätverk och deep learning",
+            "spec": "ss",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMSF10": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Stationära stokastiska processer",
+            "spec": "ss",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Stationära stokastiska processer",
+            "spec": "bg",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMSN35": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Stationär och icke-stationär spektralanalys",
+            "spec": "ss",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "FMSN45": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Matematisk statistik, tidsserieanalys",
+            "spec": "ss",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FRTN65": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Modellering och inlärning från data",
+            "spec": "ss",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Modellering och inlärning från data",
+            "spec": "ra",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDIN01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Kryptoteknik",
+            "spec": "ks",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITF95": [
+         {
+            "hp": 4.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Kösystem",
+            "spec": "ks",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EITG05": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Digital kommunikation",
+            "spec": "ks",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITN21": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Projekt i trådlös kommunikation",
+            "spec": "ks",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITN30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Internet inuti",
+            "spec": "ks",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EITN45": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Informationsteori",
+            "spec": "ks",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EITN70": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Kanalkodning för tillförlitlig kommunikation",
+            "spec": "ks",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITN75": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Design av trådlösa system",
+            "spec": "ks",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EITN85": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Trådlösa kanaler",
+            "spec": "ks",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EITN95": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Simulering",
+            "spec": "ks",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EITP30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Moderna trådlösa system - 5G och dess efterföljare",
+            "spec": "ks",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "ETSF05": [
+         {
+            "hp": 9,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Internetprotokoll",
+            "spec": "ks",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "ETSN10": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Nätverksarkitektur och prestanda",
+            "spec": "ks",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "ETTN01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Digital kommunikation, fortsättningskurs",
+            "spec": "ks",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "AEBF30": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Solel - grundkurs i solcellsteknik",
+            "spec": "em",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EIEN10": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Vindkraftsystem",
+            "spec": "em",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EIEN15": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Elkraftsystem",
+            "spec": "em",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Elkraftsystem",
+            "spec": "ra",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EIEN20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Elmaskinkonstruktion",
+            "spec": "em",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "EIEN25": [
+         {
+            "hp": 15,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Kraftelektronik - komponenter, omvandlare, reglering och tillämpningar",
+            "spec": "em",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "EIEN30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i industriell elektroteknik och automation",
+            "spec": "em",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i industriell elektroteknik och automation",
+            "spec": "em",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "EIEN41": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "El- och elhybridfordonsteknik",
+            "spec": "em",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMIN20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Energisystemanalys: Förnybara energikällor",
+            "spec": "em",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "FMIN25": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Energisystemanalys: energi, miljö och naturresurser",
+            "spec": "em",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MVKN15": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Energiförsörjning",
+            "spec": "em",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "MVKN30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Avancerad energihushållning",
+            "spec": "em",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MVKN95": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Miljövänlig elproduktion",
+            "spec": "em",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MVKP15": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Vindkraftsteknik",
+            "spec": "em",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "MVKP25": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Vätgas, batterier och bränsleceller",
+            "spec": "em",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "BMEN01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Medicinsk signalbehandling",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "BMEN05": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Biomekanik",
+            "spec": "mt",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "BMEN25": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i Biomedicinsk teknik",
+            "spec": "mt",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i Biomedicinsk teknik",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i Biomedicinsk teknik",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i Biomedicinsk teknik",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EEMF05": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E1",
+            "kursnamn": "Medicinsk mätteknik",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EEMN21": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Introduktion till mikrofluidik och lab-on-a-chip system",
+            "spec": "mt",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FAFN35": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Medicinsk optik",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMAN01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Biomatematik",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "FMAN20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Bildanalys",
+            "spec": "mt",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Bildanalys",
+            "spec": "bg",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMAN30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Medicinsk bildanalys",
+            "spec": "mt",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "TNSF05": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Rehabiliteringsteknik",
+            "spec": "mt",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAF80": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Datorgrafik",
+            "spec": "bg",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAN20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "languageteknologi",
+            "spec": "bg",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAN35": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Högpresterande datorgrafik",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAN70": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i datavetenskap",
+            "spec": "bg",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i datavetenskap",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i datavetenskap",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i datavetenskap",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i datavetenskap",
+            "spec": "pv",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i datavetenskap",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i datavetenskap",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i datavetenskap",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EDAN95": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Tillämpad maskininlärning",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAP01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Artificiell intelligens",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "FMAN45": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Maskininlärning",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "FMAN95": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Datorseende",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "FMSN20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Spatial statistik med bildanalys",
+            "spec": "bg",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EIEN01": [
+         {
+            "hp": 10,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Mekatronik, industriell produktframtagning",
+            "spec": "ra",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "EIEN35": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Automation för komplexa system",
+            "spec": "ra",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EIEN45": [
+         {
+            "hp": 10,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Tillämpad mekatronik",
+            "spec": "ra",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EIEN50": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Automation",
+            "spec": "ra",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "FMAN71": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Matristeori",
+            "spec": "ra",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FRTN01": [
+         {
+            "hp": 10,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Realtidssystem",
+            "spec": "ra",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "FRTN05": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Olinjär reglering och servosystem",
+            "spec": "ra",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FRTN30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Nätverksdynamik",
+            "spec": "ra",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "FRTN40": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Projekt i reglerteknik",
+            "spec": "ra",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FRTN55": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Reglerteknik, fortsättningskurs",
+            "spec": "ra",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FRTN75": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Inlärningsbaserad reglering",
+            "spec": "ra",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EDAF35": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E1",
+            "kursnamn": "Operativsystem",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EDAF60": [
+         {
+            "hp": 4.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Objektorienterad modellering och design",
+            "spec": "pv",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAF75": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Databasteknik",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "EDAN01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Constraint-programmering",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAN10": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Konfigurationshantering",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAN26": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Multicoreprogrammering",
+            "spec": "pv",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAN40": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Funktionsprogrammering",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EDAN65": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Kompilatorer",
+            "spec": "pv",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Kompilatorer",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAP05": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Programlanguageskoncept",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAP10": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Flertrådad programmering",
+            "spec": "pv",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "ETSN05": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Programvaruutveckling för stora system",
+            "spec": "pv",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "ETSN15": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Kravhantering",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "ETSN20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Programvarutestning",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMNN25": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Avancerad kurs i numeriska algoritmer med Python/SciPy",
+            "spec": "pv",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAN75": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Periodiserad | Optimerande kompilatorer",
+            "spec": "pv",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAP15": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Periodiserad | Programanalys",
+            "spec": "pv",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MIOF10": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Material- och produktionsstyrning",
+            "spec": "pla",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MIOF15": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Marknadsföring",
+            "spec": "pla",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MIOF25": [
+         {
+            "hp": 6,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Industriell ekonomi, fortsättningskurs",
+            "spec": "pla",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "MION01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Styrning av produktionssystem och materialflöden",
+            "spec": "pla",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "MION05": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Affärsmarknadsföring",
+            "spec": "pla",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MION20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Tillämpad affärsanalys",
+            "spec": "pla",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "MION25": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Teknologistrategier",
+            "spec": "pla",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MION30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Industriell management",
+            "spec": "pla",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MION45": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Produktionsstrategi",
+            "spec": "pla",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "MTTF01": [
+         {
+            "hp": 5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Logistik",
+            "spec": "pla",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MTTN20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Informationssystem för logistik och försörjningskedjor",
+            "spec": "pla",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MTTN70": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Internationell distributionsteknik",
+            "spec": "pla",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "MTTN75": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Industriellt inköp",
+            "spec": "pla",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MTTN80": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Logistik i försörjningskedjor",
+            "spec": "pla",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EITF50": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Introduktion till trådlösa system",
+            "spec": "fh",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITN80": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Elektrodynamik",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EITN90": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Radar och fjärranalys",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EITP01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Höghastighetselektronik",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITP05": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Nanoelektronik",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "ETEN10": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Antennteknik",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "ETIN20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Digital IC-konstruktion",
+            "spec": "fh",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Digital IC-konstruktion",
+            "spec": "is",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "ETIN25": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Analog IC-konstruktion",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Analog IC-konstruktion",
+            "spec": "is",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "ETIN30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Integrerad radioelektronik",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Integrerad radioelektronik",
+            "spec": "is",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "ETIN50": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Högfrekvensförstärkare",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FAFF01": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Optik och optisk design",
+            "spec": "fh",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FAFN01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Lasrar",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FAFN10": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Avancerade laser- och optiksystem",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "FFFN25": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Optoelektronik och optisk kommunikation",
+            "spec": "fh",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EDAN15": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Konstruktion av inbyggda system",
+            "spec": "is",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EITF20": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Datorarkitektur",
+            "spec": "is",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITF35": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Digitala strukturer på kisel",
+            "spec": "is",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITP15": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Kretskortsdesign och prototypkonstruktion",
+            "spec": "is",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITP25": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Minnesteknologi för maskininlärning",
+            "spec": "is",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "ETIN35": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "IC-projekt 1",
+            "spec": "is",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "ETIN40": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "IC-projekt 2",
+            "spec": "is",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "ETIN45": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "DSP-design",
+            "spec": "is",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "ETIN55": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Integrerade A/D och D/A omvandlare",
+            "spec": "is",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FFFN30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Halvledarfysik",
+            "spec": "is",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "AEBF25": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Solenergi - grundkurs i solvärmeteknik",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAF05": [
+         {
+            "hp": 5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Algoritmer, datastrukturer och komplexitet",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EDAF45": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Programvaruutveckling i grupp - projekt",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EDAF50": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "C++ - programmering",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "EDAF90": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Webbprogrammering",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EDAG01": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Effektiv C",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAG05": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E1",
+            "kursnamn": "Agil programvaruutveckling - projekt",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAP20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Intelligenta autonoma system",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EDAP25": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Distribuerade system",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EEMN26": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Lab-on-a-chip i biomedicinska tillämpningar",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EITA05": [
+         {
+            "hp": 4.5,
+            "level": "G1",
+            "language": "S",
+            "kursnamn": "Teknikhistoria",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "EITA25": [
+         {
+            "hp": 7.5,
+            "level": "G1",
+            "language": "S",
+            "kursnamn": "Datasäkerhet",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "EITF05": [
+         {
+            "hp": 4,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Webbsäkerhet",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITN10": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Multipelantennsystem",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITN35": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i elektro- och informationsteknik",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i elektro- och informationsteknik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i elektro- och informationsteknik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i elektro- och informationsteknik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EITN41": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Avancerad webbsäkerhet",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITN50": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Avancerad datasäkerhet",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITP10": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Högpresterande fibernät",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EITP20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Konstruktion av säkra system",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "ETIA10": [
+         {
+            "hp": 7.5,
+            "level": "G1",
+            "language": "E",
+            "kursnamn": "Patent och annan immaterialrätt",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "ETIN85": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Avancerad kryptografi",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "EXTA65": [
+         {
+            "hp": 4.5,
+            "level": "G1",
+            "language": "S",
+            "kursnamn": "Kognition",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "EXTG15": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E1",
+            "kursnamn": "Biologisk översiktskurs",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "FAFA10": [
+         {
+            "hp": 9,
+            "level": "G1",
+            "language": "S",
+            "kursnamn": "Fysik - Kvantfenomen och nanoteknologi",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FFFF10": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Process- och komponentteknologi",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FFFN35": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Fysiken för låg-dimensionella strukturer och kvantkomponenter",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FHLA05": [
+         {
+            "hp": 7.5,
+            "level": "G1",
+            "language": "E",
+            "kursnamn": "Teknisk mekanik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "FHLF20": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Finita elementmetoden",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "FKFN35": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Miljömätteknik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "FMAB75": [
+         {
+            "hp": 7.5,
+            "level": "G1",
+            "language": "E1",
+            "kursnamn": "Diskret matematik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "G1",
+            "language": "E1",
+            "kursnamn": "Diskret matematik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "FMAF35": [
+         {
+            "hp": 6,
+            "level": "G2",
+            "language": "E1",
+            "kursnamn": "Linjär och kombinatorisk optimering",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "FMAN25": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Variationskalkyl",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "FMAN35": [
+         {
+            "hp": 3,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i matematik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 3,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i matematik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "FMAN40": [
+         {
+            "hp": 3,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i tillämpad matematik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 3,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt i tillämpad matematik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "FMAN55": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Kontinuerliga system",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "FMAN61": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Optimering",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMFF15": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E1",
+            "kursnamn": "Kvantmekanik och matematiska metoder",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMFF30": [
+         {
+            "hp": 4.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Relativitetsteori",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "FMIF20": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Miljöfrågor i ett internationellt perspektiv",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMIN30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Miljösystemanalys, livscykelanalys",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMSF15": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Markovprocesser",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FMSF65": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Försöksplanering",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "FRTF20": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Tillämpad robotteknik",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FRTN50": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Optimering för maskininlärning",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "FRTN70": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Projekt i system, reglering och maskininlärning",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "IYT000": [
+         {
+            "hp": 15,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Ingenjörsinriktad yrkesträning",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 15,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Ingenjörsinriktad yrkesträning",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 15,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Ingenjörsinriktad yrkesträning",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         },
+         {
+            "hp": 15,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Ingenjörsinriktad yrkesträning",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "KIIF01": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E1",
+            "kursnamn": "Industriellt miljöarbete",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "MAMF21": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Arbetsmiljö, hälsa och säkerhet",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "MAMF45": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "E",
+            "kursnamn": "Virtual Reality i teori och praktik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "MAMN30": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Ledarskap, arbetsorganisation och projektledning",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "MIOF05": [
+         {
+            "hp": 2,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Projekt i industriell ekonomi, fortsättningskurs",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "MIOF21": [
+         {
+            "hp": 7.5,
+            "level": "G2",
+            "language": "S",
+            "kursnamn": "Företagsorganisation",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": null,
+            "lp4": 1
+         }
+      ],
+      "MVKN20": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "S",
+            "kursnamn": "Energianvändning",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": null
+         }
+      ],
+      "MVKN51": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E",
+            "kursnamn": "Energiomvandlare för hållbara transporter",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": null,
+            "lp3": null,
+            "lp4": null
+         }
+      ],
+      "MVKP05": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt - formula student",
+            "spec": "valfri",
+            "lp1": 1,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         },
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Projekt - formula student",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": null,
+            "lp3": 1,
+            "lp4": 1
+         }
+      ],
+      "TNSN01": [
+         {
+            "hp": 7.5,
+            "level": "A",
+            "language": "E1",
+            "kursnamn": "Servicerobotik",
+            "spec": "valfri",
+            "lp1": null,
+            "lp2": 1,
+            "lp3": null,
+            "lp4": null
+         }
+      ]
+   }
+}
